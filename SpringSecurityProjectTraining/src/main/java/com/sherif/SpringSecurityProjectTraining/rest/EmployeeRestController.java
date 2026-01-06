@@ -1,8 +1,8 @@
-package com.luv2code.springboot.cruddemo.rest;
+package com.sherif.SpringSecurityProjectTraining.rest;
 
 
-import com.luv2code.springboot.cruddemo.entity.Employee;
-import com.luv2code.springboot.cruddemo.service.EmployeeService;
+import com.sherif.SpringSecurityProjectTraining.entity.Employee;
+import com.sherif.SpringSecurityProjectTraining.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import tools.jackson.databind.ObjectMapper;
